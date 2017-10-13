@@ -1,6 +1,6 @@
 # Arduino-Data-Logger
 
-This project uses an Arduino UNO and a datalogger shield (like the one found [here](goo.gl/DzUzoR)) to take down voltage readings via ADC and save them in a .csv file on a SD card. The data logger also records the date and time corresponding to the readings.  
+This project uses an Arduino UNO and a datalogger shield (like the one found [here](goo.gl/DzUzoR)) to record voltage readings via ADC and save them in a .csv file on a SD card. The data logger also records the date and time corresponding to the readings.  
   
 Additional functionality is added to make the logging process more user friendly such as:
 
